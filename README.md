@@ -5,6 +5,6 @@ My name's Kevin Joseph and I'm a Computer Science and Statistics student at the 
 - [Log Observatory](https://github.com/kevin-joseph05/Log-Observatory) - I designed a Kimball star schema from ~2M raw NASA HTTP log records, and I'm extending the star schema pipeline with AWS data services (S3, Glue, Athena, Lambda) and DuckDB for direct Parquet querying.
 
 ## Let's connect:
-- 🌐 Website: [kevin-joseph.me](https://kevin-joseph.me/)
-- 💼 LinkedIn: [in/kevin--joseph](https://www.linkedin.com/in/kevin--joseph/)
-- 📧 Email: [kevnjoseph42@gmail.com](mailto:kevnjoseph42@gmail.com)
+- Website: [kevin-joseph.me](https://kevin-joseph.me/)
+- LinkedIn: [in/kevin--joseph](https://www.linkedin.com/in/kevin--joseph/)
+- Email: [kevnjoseph42@gmail.com](mailto:kevnjoseph42@gmail.com)
